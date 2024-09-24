@@ -4,7 +4,7 @@ Hi 👋 My name is Basm Mohamed
 Flutter Developer
 -----------------
 
-Over the past three years, I have been deeply involved in learning and developing applications using Flutter, Skills: - RESTful APIs ,OOP,Design Pattern ,MVVM ,Clean Architecture ,Clean Code,Git,Dart , - Bloc Pattern,Problem Solving,Flutter Development,State Management,UI/UX and Firebase
+Over the past three years, I have been deeply involved in learning and developing applications using Flutter,skills: RESTful APIs ,OOP,Design Pattern ,MVVM ,Clean Architecture ,Clean Code,Git,Dart ,Bloc Pattern,Problem Solving,Flutter Development,State Management,UI/UX and Firebase.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [basm.mohamed112@gmail.com](mailto:basm.mohamed112@gmail.com)
